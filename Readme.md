@@ -30,7 +30,7 @@ Using data analysis, visualization, and machine learning, it highlights patterns
 ## Tools & Technologies
 
 - **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `imblearn`
-- **Notebook**: Google Colab
+- **Notebook**: Jupyter Notebook
 - **Presentation**: PowerPoint
 
 ---
